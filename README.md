@@ -1,4 +1,4 @@
-My first Next.js Project!
+`React Real Estate App`
 
 
 
