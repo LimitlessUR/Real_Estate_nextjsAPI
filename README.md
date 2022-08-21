@@ -1,6 +1,8 @@
 `React Real Estate App`
 User will need API key:
 
+This React Real Estate App allows our user to search and filter real estate data via the bayut API.
+
 API Link:
 
 https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
