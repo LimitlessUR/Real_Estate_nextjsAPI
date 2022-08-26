@@ -1,4 +1,4 @@
-`React Real Estate App`
+# ReactJS Real Estate App 
 
 
 This React Real Estate App allows our users to search and filter real estate data via the bayut API. Our users can choose to rent or buy and then use our filter feature to further customize their dream home searh. 
