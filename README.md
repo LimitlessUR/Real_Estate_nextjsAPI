@@ -1,8 +1,8 @@
 `React Real Estate App`
+
+
+This React Real Estate App allows our users to search and filter real estate data via the bayut API. Our users can choose to rent or buy and then use our filter feature to further customize their dream home searh. 
 User will need API key:
-
-This React Real Estate App allows our user to search and filter real estate data via the bayut API. Our users can choose to rent or buy and then use our filter feature to further customize their dream home searh. 
-
 API Link:
 
 https://rapidapi.com/apidojo/api/bayut?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel
